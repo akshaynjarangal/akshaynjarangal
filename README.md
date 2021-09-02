@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaynjarangal
-- 👀 I’m interested in Web & Mobile App developing,UI/UX Designing
+- 👀 I’m interested in IoT,Web & Mobile App developing,UI/UX Designing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 - Facebook - [akshaynjarangal](https://facebook.com/akshaynjarangal)
