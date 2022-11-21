@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshaynjarangal
 - 👀 I’m interested in IoT,Web & Mobile App developing,UI/UX Designing
 - 📫 How to reach me ...
-- LinkedIn - [akshaynjarangal](https://linkedin.com/in/akshaynjarangal)
+- LinkedIn - [akshaynjarangal](https://linkedin.com/in/akshay-njarangal)
 - Instagram - [@akshaynjarangal](https://instagram.com/akshaynjarangal)
 - Facebook - [akshaynjarangal](https://facebook.com/akshaynjarangal)
 
