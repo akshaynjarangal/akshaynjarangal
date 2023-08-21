@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @akshaynjarangal
+- 🌱 I’m currently learning Swift,UIKit & SwiftUI
 - 👀 I’m interested in IoT,Web & Mobile App developing,UI/UX Designing
+- 
 - 📫 How to reach me ...
 - LinkedIn - [akshaynjarangal](https://linkedin.com/in/akshay-njarangal)
 - Instagram - [@akshaynjarangal](https://instagram.com/akshaynjarangal)
